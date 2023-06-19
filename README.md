@@ -3,7 +3,7 @@
 
 ![Flow-Proxy](Flow-Proxy.png)
 
-Flow-Proxy is a simple app to send transactions on Flow Blockchain.
+Flow-Proxy is a simple app to send transactions on Flow Testnet.
 
 ## Available Scripts
 
