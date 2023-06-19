@@ -30,7 +30,7 @@ const SendTransaction = () => {
 transaction {
     prepare(acct: AuthAccount) {
 
-        acct.unlink(/public/flowTokenReceiver)
+    //write something!!!
       
    }
   execute {
