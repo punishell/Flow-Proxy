@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Flow-Proxy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Flow-Proxy](Flow-Proxy)
+
+Flow-Proxy is a simple app to send transactions on Flow Blockchain.
 
 ## Available Scripts
 
